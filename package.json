@@ -1,0 +1,23 @@
+{
+  "name": "FlashCards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidman22/FlashCards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidman22/FlashCards/issues"
+  },
+  "homepage": "https://github.com/vidman22/FlashCards#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
